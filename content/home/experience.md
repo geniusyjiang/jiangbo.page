@@ -42,7 +42,7 @@ date_format = "2006-01"
   description = """
   Responsibilities include:
   
-  * Investment in various financial products (bonds, ABS, mutual funds, etc.)
+  * Investing in various financial products (corporate bonds, ABS, mutual funds, etc.)
   * Collecting funds from other financial institutions.
   """
 
