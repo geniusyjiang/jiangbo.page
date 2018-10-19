@@ -6,14 +6,14 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://jiangbo.page/"
 
 # Title of your site
-title = "Academic"
+title = "Jiang Bo's Page"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2006-2018"
 
 theme = "academic"
 enableEmoji = true
@@ -51,8 +51,8 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "姜波"
+  role = "讲师、研究生导师"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -62,10 +62,10 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
+  email = "jiangbo.sicnu@qq.com"
+  address = "成都市龙泉驿区成龙大道二段1819号"
+  office_hours = "请提前邮件预约"
+  phone = "+86 186 28000 989"
   skype = "echo123"
   telegram = ""
   keybase = ""  # Your keybase.io username.
