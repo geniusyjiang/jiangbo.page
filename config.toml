@@ -29,7 +29,7 @@ disqusShortname = ""
 googleAnalytics = ""
 
 # Default language to use (if you setup multilingual support)
-defaultContentLanguage = "en"
+defaultContentLanguage = "zh"
 hasCJKLanguage = true  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 
@@ -347,13 +347,35 @@ enableGitInfo = true
   languageCode = "en-us"
 
 # Uncomment the lines below to configure your website in a second language.
-#[languages.zh]
-#  languageCode = "zh-Hans"
-#  title = "姜波"
-#  [languages.zh.params]
-#    name = "姜波"
-#    role = "讲师、硕士生导师"
-#  [[languages.zh.menu.main]]
-#    name = "关于"
-#    url = "#about"
-#    weight = 1
+[languages.zh]
+  languageCode = "zh-Hans"
+  title = "欢迎访问姜波的页面"
+
+[languages.zh.params]
+  name = "姜波"
+  role = "讲师、硕士生导师"
+
+[[languages.zh.menu.main]]
+  name = "关于"
+  url = "#about"
+  weight = 1
+
+[[languages.zh.menu.main]]
+  name = "论文"
+  url = "#publications_selected"
+  weight = 2
+
+[[languages.zh.menu.main]]
+  name = "联系我"
+  url = "#contact"
+  weight = 6
+
+[[languages.zh.menu.main]]
+  name = "中文简历"
+  url = "files/jiangbo-cv-public.pdf"
+  weight = 7
+
+[[languages.zh.menu.main]]
+  name = "《会计学》课程资源"
+  url = "https://datainfinance.com/accounting-lecture-notes"
+  weight = 8
