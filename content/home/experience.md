@@ -26,6 +26,7 @@ date_format = "2006-01"
   date_start = "2018-07-04"
   date_end = ""
   description = """
+
   * Teaching of finance and accounting related courses.
   * Researching in finance related subjects.
   """
@@ -38,6 +39,7 @@ date_format = "2006-01"
   date_start = "2015-08-01"
   date_end = "2018-06-30"
   description = """
+  
   * Investing in various financial products (corporate bonds, ABS, mutual funds, etc.)
   * Collecting funds from other financial institutions.
   """
