@@ -11,7 +11,7 @@ weight = 8
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "January 2006"
+date_format = "2006-01"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -19,27 +19,31 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Assistant Professor"
+  company = "Sichuan Normal University"
+  company_url = "http://www.sicnu.edu.cn"
+  location = "Chengdu"
+  date_start = "2018-07-04"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Teaching of finance and accounting related courses.
+  * Researching in finance related subjects.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Investment Manager"
+  company = "Industrial Bank of China"
+  company_url = "http://www.cib.com.cn"
+  location = "Chengdu"
+  date_start = "2015-08-01"
+  date_end = "2018-06-30"
+  description = """
+  Responsibilities include:
+  
+  * Investment in various financial products (bonds, ABS, mutual funds, etc.)
+  * Collecting funds from other financial institutions.
+  """
 
 +++
