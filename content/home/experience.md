@@ -22,12 +22,10 @@ date_format = "2006-01"
   title = "Assistant Professor"
   company = "Sichuan Normal University"
   company_url = "http://www.sicnu.edu.cn"
-  location = "Chengdu"
+  location = "Business School"
   date_start = "2018-07-04"
   date_end = ""
   description = """
-  Responsibilities include:
-  
   * Teaching of finance and accounting related courses.
   * Researching in finance related subjects.
   """
@@ -36,12 +34,10 @@ date_format = "2006-01"
   title = "Investment Manager"
   company = "Industrial Bank of China"
   company_url = "http://www.cib.com.cn"
-  location = "Chengdu"
+  location = "Department of Financial Market"
   date_start = "2015-08-01"
   date_end = "2018-06-30"
   description = """
-  Responsibilities include:
-  
   * Investing in various financial products (corporate bonds, ABS, mutual funds, etc.)
   * Collecting funds from other financial institutions.
   """
