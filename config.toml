@@ -29,7 +29,7 @@ disqusShortname = ""
 googleAnalytics = ""
 
 # Default language to use (if you setup multilingual support)
-defaultContentLanguage = "en"
+defaultContentLanguage = "zh-Hans"
 hasCJKLanguage = true  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 
@@ -349,11 +349,11 @@ enableGitInfo = true
 # Uncomment the lines below to configure your website in a second language.
 #[languages.zh]
 #  languageCode = "zh-Hans"
-#  title = "Chinese website title..."
+#  title = "姜波"
 #  [languages.zh.params]
-#    name = "Your name in Chinese..."
-#    role = "Your role in Chinese..."
+#    name = "姜波"
+#    role = "讲师、硕士生导师"
 #  [[languages.zh.menu.main]]
-#    name = "Wo"
+#    name = "关于"
 #    url = "#about"
 #    weight = 1
