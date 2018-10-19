@@ -307,12 +307,12 @@ enableGitInfo = true
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[menu.main]]
-  name = "CV"
+  name = "中文简历"
   url = "files/jiangbo-cv-public.pdf"
   weight = 7
 
 [[menu.main]]
-  name = "《会计学》资源"
+  name = "《会计学》课程资源"
   url = "https://datainfinance.com/accounting-lecture-notes"
   weight = 8
 
