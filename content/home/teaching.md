@@ -17,8 +17,8 @@ weight = 40
 
 # To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
 
-* 《Accounting》, Undergraduate level, Fall 2018
-* 《Introduction to Statistics》, Junior College level, Fall 2011
+# 《Accounting》, Undergraduate level, Fall 2018
+# 《Introduction to Statistics》, Junior College level, Fall 2011
 
 +++
 
