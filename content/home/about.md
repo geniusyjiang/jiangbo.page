@@ -33,7 +33,7 @@ weight = 5
  
 +++
 
-# Biography
+# 简介
 
 Jiang Bo is an assistant professor of finance at the Business School of Sichuan Normal University. His research interests include corporate finance, capital market, banking and macro fiance. He received his doctor's degree in finance from Southwestern University of Finance and Economics.
 
