@@ -10,25 +10,25 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Corporate Finance",
-    "Capital Market",
-    "Banking and Macro Finance"
+    "公司金融",
+    "资本市场",
+    "商业银行"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Finance"
-  institution = "Southwestern University of Finance and Economics"
+  course = "博士研究生，金融学"
+  institution = "西南财经大学"
   year = 2017
 
 [[education.courses]]
-  course = "Master in Finance"
-  institution = "Southwestern University of Finance and Economics"
+  course = "硕士研究生，金融学"
+  institution = "西南财经大学"
   year = 2012
 
 [[education.courses]]
-  course = "Bachelor in Auditing (ACCA)"
-  institution = "Nanjing Audit University"
+  course = "本科，审计学（ACCA方向）"
+  institution = "南京审计大学"
   year = 2009
  
 +++

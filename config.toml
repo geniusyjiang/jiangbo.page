@@ -9,7 +9,7 @@
 baseurl = "https://jiangbo.page/"
 
 # Title of your site
-title = "Jiang Bo"
+title = "欢迎光临姜波的页面"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -51,20 +51,20 @@ enableGitInfo = true
   # AUTHOR SETUP
 
   # Your details.
-  name = "Jiang Bo（姜波）"
-  role = "Assistant Professor in Finance"
+  name = "姜波"
+  role = "金融学博士、讲师"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Business School, Sichuan Normal University", url = "http://sxy.sicnu.edu.cn" } ]
+  organizations = [ { name = "四川师范大学商学院", url = "http://sxy.sicnu.edu.cn" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "jiangbo.sicnu@qq.com"
-  address = "#1819 Chenglong Avenue, Longquanyi District, Chengdu, Sichuan"
-  office_hours = "Appoint by email in advance"
+  address = "成都市龙泉驿区成龙大道二段1819号"
+  office_hours = "请提前发邮件预约"
   phone = "+86 186 28000 989"
   skype = ""
   telegram = ""
@@ -106,7 +106,7 @@ enableGitInfo = true
   font = "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
-  description = ""
+  description = "姜波，四川师范大学商学院讲师、硕士生导师，西南财经大学金融学博士。"
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
   sharing_image = ""
@@ -294,10 +294,10 @@ enableGitInfo = true
   url = "#posts"
   weight = 3
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
+#[[menu.main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 4
 
 [[menu.main]]
   name = "Contact"
