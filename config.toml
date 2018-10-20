@@ -343,8 +343,8 @@ enableGitInfo = true
 #   Refer to https://sourcethemes.com/academic/docs/language/
 
 # Configure the English version of the website.
-[languages.en]
-  languageCode = "en-us"
+#[languages.en]
+#  languageCode = "en-us"
 
 # Uncomment the lines below to configure your website in a second language.
 [languages.zh]

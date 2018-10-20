@@ -1,3 +1,6 @@
-body, h1, h2, h3, h4, h5, h6 {
+body, h2, h3, h4, h5, h6 {
 	font-family: "Segoe UI", Helvetica, Arial, Tahoma, "微软雅黑", "Microsoft YaHei UI", "Source Han Sans SC", "PingFang SC", "WenQuanYi Micro Hei", sans-serif;
+}
+h1, .navbar-brand, .portrait-title h2 {
+	font-family: "Segoe UI", Helvetica, Arial, Tahoma, "Source Han Serif SC", "微软雅黑", "Microsoft YaHei UI",  "PingFang SC", "WenQuanYi Micro Hei", sans-serif;
 }
