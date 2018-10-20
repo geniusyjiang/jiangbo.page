@@ -135,7 +135,7 @@ enableGitInfo = true
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight
@@ -162,8 +162,8 @@ enableGitInfo = true
   #
   #   For more info on the highlighting options, see:
   #   https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
-  highlight = false
-  highlight_languages = []
+  highlight = true
+  highlight_languages = ["python"]
   # highlight_style = "github"
 
   # Enable native social sharing buttons?
@@ -362,8 +362,18 @@ enableGitInfo = true
 
 [[languages.zh.menu.main]]
   name = "论文"
-  url = "#publications_selected"
+  url = "#publications"
   weight = 2
+
+[[languages.zh.menu.main]]
+  name = "经历"
+  url = "#experience"
+  weight = 3
+
+[[languages.zh.menu.main]]
+  name = "教学"
+  url = "#teaching"
+  weight = 4
 
 [[languages.zh.menu.main]]
   name = "联系"
