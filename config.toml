@@ -366,12 +366,12 @@ enableGitInfo = true
   weight = 2
 
 [[languages.zh.menu.main]]
-  name = "联系我"
+  name = "联系"
   url = "#contact"
   weight = 6
 
 [[languages.zh.menu.main]]
-  name = "中文简历"
+  name = "简历"
   url = "files/jiangbo-cv-public.pdf"
   weight = 7
 
