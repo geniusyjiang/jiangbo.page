@@ -356,18 +356,18 @@ enableGitInfo = true
   role = "讲师、硕士生导师"
 
 [[languages.zh.menu.main]]
-  name = "关于"
+  name = "简介"
   url = "#about"
   weight = 1
 
 [[languages.zh.menu.main]]
-  name = "论文"
-  url = "#publications"
+  name = "经历"
+  url = "#experience"
   weight = 2
 
 [[languages.zh.menu.main]]
-  name = "经历"
-  url = "#experience"
+  name = "论文"
+  url = "#publications"
   weight = 3
 
 [[languages.zh.menu.main]]
