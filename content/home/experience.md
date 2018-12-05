@@ -51,8 +51,8 @@ date_format = "Jan 2006"
   company = "兴业银行股份有限公司"
   company_url = "http://www.cib.com.cn"
   location = "总行同业业务部"
-  date_start = "2015-08-01"
-  date_end = "2018-06-30"
+  date_start = "2016-07-01"
+  date_end = "2017-01-31"
   description = """<br />
 
   * 协助进行同业投资货币基金与定制债券型基金业务模式的研究及操作规程和考核制度的制定；
