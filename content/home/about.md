@@ -28,7 +28,7 @@ weight = 5
 
 [[education.courses]]
   course = "本科，审计学（ACCA方向）"
-  institution = "南京审计大学"
+  institution = "南京审计学院（现南京审计大学）"
   year = 2009
  
 +++
