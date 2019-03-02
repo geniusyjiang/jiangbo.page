@@ -13,7 +13,7 @@ title = "欢迎光临姜波的页面"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2006-2018"
+copyright = "&copy; 2006-2019"
 
 theme = "academic"
 enableEmoji = true
@@ -23,10 +23,10 @@ preserveTaxonomyNames = true
 paginate = 10
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+#disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+#googleAnalytics = ""
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "zh"
@@ -62,13 +62,13 @@ enableGitInfo = true
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "jiangbo.sicnu@qq.com"
+  email = "jiangbo@sicnu.edu.cn"
   address = "成都市龙泉驿区成龙大道二段1819号"
   office_hours = "请提前发邮件预约"
   phone = "+86 186 28000 989"
-  skype = "geniusy@outlook.com"
-  telegram = ""
-  keybase = ""  # Your keybase.io username.
+  skype = "geniusy@live.com"
+  #telegram = ""
+  #keybase = ""  # Your keybase.io username.
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
