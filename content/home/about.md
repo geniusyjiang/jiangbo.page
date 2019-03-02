@@ -17,12 +17,12 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "博士研究生，金融学"
+  course = "博士研究生（硕博连读），金融学"
   institution = "西南财经大学"
   year = 2017
 
 [[education.courses]]
-  course = "硕士研究生，金融学"
+  course = "硕士研究生（硕博连读），金融学"
   institution = "西南财经大学"
   year = 2012
 
