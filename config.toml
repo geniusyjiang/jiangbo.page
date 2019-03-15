@@ -65,7 +65,7 @@ enableGitInfo = true
   email = "jiangbo@sicnu.edu.cn"
   address = "成都市龙泉驿区成龙大道二段1819号"
   office_hours = "请提前发邮件预约"
-  phone = "+86 186 28000 989"
+  phone = "+86 186 ***** 989"
   skype = "geniusy@live.com"
   #telegram = ""
   #keybase = ""  # Your keybase.io username.
@@ -106,7 +106,7 @@ enableGitInfo = true
   font = "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
-  description = "姜波，四川师范大学商学院讲师、硕士生导师，西南财经大学金融学博士。"
+  description = "姜波，西南财经大学金融学博士，四川师范大学商学院讲师、硕士生导师。"
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
   sharing_image = ""
@@ -247,7 +247,7 @@ enableGitInfo = true
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:jiangbo.sicnu@qq.com"
+    link = "mailto:jiangbo@sicnu.edu.cn"
 
   [[params.social]]
     icon = "twitter"
