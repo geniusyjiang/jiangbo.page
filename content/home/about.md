@@ -37,4 +37,4 @@ weight = 5
 
 Jiang Bo is an assistant professor of finance at the Business School of Sichuan Normal University. His research interests include corporate finance, capital market, banking and macro finance. He received his doctor's degree in finance from Southwestern University of Finance and Economics.
 
-姜波目前任职于四川师范大学商学院，担任讲师及硕士生导师。他本科毕业于南京审计学院（现南京审计大学）审计学（ACCA方向）专业，硕博连读就读于西南财经大学金融学院金融学专业，获授金融学博士学位。他专注于公司金融与商业银行相关领域研究，曾在《财经研究》《中国经济问题》和《人民日报》（理论版）等权威期刊发表多篇学术论文。
+姜波目前任职于四川师范大学商学院，担任讲师及硕士生导师。他本科毕业于南京审计学院（现南京审计大学）审计学（ACCA方向）专业，硕博连读就读于西南财经大学金融学院金融学专业，获授金融学博士学位。他专注于公司金融与资本市场相关领域研究，曾在《财经研究》《中国经济问题》和《人民日报》（理论版）等权威期刊发表多篇学术论文。
