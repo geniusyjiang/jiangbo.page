@@ -4,8 +4,8 @@ widget = "projects"
 active = false
 date = 2016-04-20T00:00:00
 
-title = "Projects"
-subtitle = ""
+title = "Course Material"
+subtitle = "课程资源"
 
 # Order that this section will appear in.
 weight = 50
@@ -18,7 +18,7 @@ folder = "project"
 # View.
 # Customize how projects are displayed.
 # Legend: 0 = list, 1 = cards.
-view = 1
+view = 0
 
 # Filter toolbar.
 
