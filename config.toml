@@ -316,6 +316,11 @@ enableGitInfo = true
   url = "https://datainfinance.com/accounting-lecture-notes"
   weight = 8
 
+[[menu.main]]
+  name = "《经济学》课程资源"
+  url = "https://datainfinance.com/microeconomics-course-material"
+  weight = 9
+
 # Search.
 [params.search]
   # Search provider:
@@ -389,3 +394,8 @@ enableGitInfo = true
   name = "《会计学》课程资源"
   url = "https://datainfinance.com/accounting-lecture-notes"
   weight = 8
+
+[[languages.zh.menu.main]]
+  name = "《经济学》课程资源"
+  url = "https://datainfinance.com/microeconomics-course-material"
+  weight = 9
