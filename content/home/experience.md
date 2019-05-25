@@ -75,9 +75,9 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "项目经理助理（实习）"
-  company = "西南证券总部"
-  company_url = "http://www.cib.com.cn"
-  location = "资产管理事业部融资理财部"
+  company = "西南证券股份有限公司"
+  company_url = "https://www.swsc.com.cn"
+  location = "总部资产管理事业部-融资理财部"
   date_start = "2014-12-01"
   date_end = "2015-06-30"
   description = """<br />
